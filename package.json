@@ -68,7 +68,7 @@
     "@types/node": "^22.20.1",
     "openclaw": "file:test-fixtures/openclaw",
     "typescript": "^5.9.0",
-    "vitest": "^3.2.0"
+    "vitest": "^5.0.0"
   },
   "openclaw": {
     "extensions": [
